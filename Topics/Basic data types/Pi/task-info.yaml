@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: '&lt;class &#x27;float&#x27;&gt;'
+- text: '&lt;class &#x27;int&#x27;&gt;'
+- text: '&lt;class &#x27;str&#x27;&gt;'
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6730#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 02 Feb 2023 00:38:31 UTC"
+record: -1
+selected_options:
+- 2
+local_check: false
